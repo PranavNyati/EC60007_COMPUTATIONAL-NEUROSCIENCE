@@ -1,0 +1,432 @@
+
+  MORIS LECAR EQUATIONS
+
+
+QUESTION 2:
+
+Equilibrium point for parameter set 1 for the case of I_ext = 0 for MLE:
+W_eq = 0.014, V_eq = -60.702
+
+Equation solved.
+
+fsolve completed because the vector of function values is near zero
+as measured by the value of the function tolerance, and
+the problem appears regular as measured by the gradient.
+
+<stopping criteria details>
+Equilibrium point for MLE with first set of variables, i external = 0
+  -60.8554
+    0.0149
+
+
+QUESTION 3:
+
+
+Jacobian matrix for the first set of MLE parameters (for I_ext = 0): 
+   -0.1004   -9.2578
+    0.0000   -0.0320
+
+
+The eigenvalues for the Jacobian matrix are:
+   -0.0959
+   -0.0366
+
+
+The given equilibrium point is a Stable Equilibrium.
+
+QUESTION 7:
+
+
+Equilibrium point for the case of Steady Externel Current Density = 86 uA/cm2 for MLE:
+W_eq = 0.119, V_eq = -27.990
+
+QUESTION 9:
+
+
+Equilibrium point for parameter set 1 for the case of I_ext = 80.000000 uA/cm2 for MLE:
+W_eq = 0.106, V_eq = -29.925
+
+
+Jacobian matrix for the first set of MLE parameters (for I_ext = 80.000000 uA/cm2): 
+   -0.0122  -21.6301
+    0.0001   -0.0229
+
+The eigenvalues for the Jacobian matrix are: 
+  -0.0175 - 0.0558i
+  -0.0175 + 0.0558i
+
+The given equilibrium point is a Stable Spiral.
+
+Equilibrium point for parameter set 1 for the case of I_ext = 86.000000 uA/cm2 for MLE:
+W_eq = 0.119, V_eq = -27.970
+
+
+Jacobian matrix for the first set of MLE parameters (for I_ext = 86.000000 uA/cm2): 
+    0.0087  -22.4120
+    0.0002   -0.0225
+
+The eigenvalues for the Jacobian matrix are: 
+  -0.0069 - 0.0574i
+  -0.0069 + 0.0574i
+
+The given equilibrium point is a Stable Spiral.
+
+Equilibrium point for parameter set 1 for the case of I_ext = 90.000000 uA/cm2 for MLE:
+W_eq = 0.129, V_eq = -26.667
+
+
+Jacobian matrix for the first set of MLE parameters (for I_ext = 90.000000 uA/cm2): 
+    0.0248  -22.9333
+    0.0002   -0.0223
+
+The eigenvalues for the Jacobian matrix are: 
+   0.0012 - 0.0572i
+   0.0012 + 0.0572i
+
+The given equilibrium point is a Unstable Spiral.
+
+QUESTION 10:
+
+The first equilibrium point is: 
+  -41.8452
+    0.0020
+
+The second equilibrium point is: 
+  -19.5632
+    0.0259
+
+The third equilibrium point is: 
+    3.8715
+    0.2821
+
+
+Jacobian matrix for Equilibrium Point 1 for the 2nd set of MLE parameters (for I_ext = 30.000000 uA/cm2): 
+   -0.0645  -16.8619
+    0.0000   -0.1638
+
+The eigenvalues for the Jacobian matrix are: 
+   -0.1568
+   -0.0715
+
+The given equilibrium point is a Stable Equilibrium.
+
+Jacobian matrix for Equilibrium Point 2 for the 2nd set of MLE parameters (for I_ext = 30.000000 uA/cm2): 
+    0.1824  -25.7747
+    0.0003   -0.0961
+
+The eigenvalues for the Jacobian matrix are: 
+   -0.0673
+    0.1536
+
+The given equilibrium point is a Saddle Point.
+
+Jacobian matrix for Equilibrium Point 3 for the 2nd set of MLE parameters (for I_ext = 30.000000 uA/cm2): 
+    0.2563  -35.1486
+    0.0016   -0.0685
+
+The eigenvalues for the Jacobian matrix are: 
+   0.0939 - 0.1723i
+   0.0939 + 0.1723i
+
+The given equilibrium point is a Unstable Spiral.
+  103.2282
+    1.0000
+
+  896.8438
+    1.0000
+
+
+QUESTION 11:
+
+
+EQUILIBRIUM POINTS OF I_EXT = 30.000000 uA/cm2 => 
+The first equilibrium point V_eq = -41.845163, W_eq = 0.002047 is a Stable Equilibrium.
+The second equilibrium point V_eq = -19.563243, W_eq = 0.025883 is a Saddle Point.
+The third equilibrium point V_eq = 3.871510, W_eq = 0.282051 is a Unstable Spiral.
+
+
+EQUILIBRIUM POINTS OF I_EXT = 31.000000 uA/cm2 => 
+The first equilibrium point V_eq = -41.102304, W_eq = 0.002230 is a Stable Equilibrium.
+The second equilibrium point V_eq = -20.040414, W_eq = 0.024535 is a Saddle Point.
+The third equilibrium point V_eq = 3.959891, W_eq = 0.284113 is a Unstable Spiral.
+
+
+EQUILIBRIUM POINTS OF I_EXT = 32.000000 uA/cm2 => 
+The first equilibrium point V_eq = -40.330932, W_eq = 0.002436 is a Stable Equilibrium.
+The second equilibrium point V_eq = -20.546375, W_eq = 0.023181 is a Saddle Point.
+The third equilibrium point V_eq = 4.047078, W_eq = 0.286156 is a Unstable Spiral.
+
+
+EQUILIBRIUM POINTS OF I_EXT = 33.000000 uA/cm2 => 
+The first equilibrium point V_eq = -39.524982, W_eq = 0.002672 is a Stable Equilibrium.
+The second equilibrium point V_eq = -21.087245, W_eq = 0.021814 is a Saddle Point.
+The third equilibrium point V_eq = 4.133117, W_eq = 0.288180 is a Unstable Spiral.
+
+
+EQUILIBRIUM POINTS OF I_EXT = 34.000000 uA/cm2 => 
+The first equilibrium point V_eq = -38.676081, W_eq = 0.002945 is a Stable Equilibrium.
+The second equilibrium point V_eq = -21.671449, W_eq = 0.020427 is a Saddle Point.
+The third equilibrium point V_eq = 4.218052, W_eq = 0.290187 is a Unstable Spiral.
+
+
+EQUILIBRIUM POINTS OF I_EXT = 35.000000 uA/cm2 => 
+The first equilibrium point V_eq = -37.772110, W_eq = 0.003266 is a Stable Equilibrium.
+The second equilibrium point V_eq = -22.311154, W_eq = 0.019006 is a Saddle Point.
+The third equilibrium point V_eq = 4.301922, W_eq = 0.292177 is a Unstable Spiral.
+
+
+EQUILIBRIUM POINTS OF I_EXT = 36.000000 uA/cm2 => 
+The first equilibrium point V_eq = -36.794350, W_eq = 0.003653 is a Stable Equilibrium.
+The second equilibrium point V_eq = -23.025123, W_eq = 0.017535 is a Saddle Point.
+The third equilibrium point V_eq = 4.384767, W_eq = 0.294150 is a Unstable Spiral.
+
+
+EQUILIBRIUM POINTS OF I_EXT = 37.000000 uA/cm2 => 
+The first equilibrium point V_eq = -35.711059, W_eq = 0.004135 is a Stable Equilibrium.
+The second equilibrium point V_eq = -23.845145, W_eq = 0.015983 is a Saddle Point.
+The third equilibrium point V_eq = 4.466621, W_eq = 0.296107 is a Unstable Spiral.
+
+
+EQUILIBRIUM POINTS OF I_EXT = 38.000000 uA/cm2 => 
+The first equilibrium point V_eq = -34.459678, W_eq = 0.004772 is a Stable Equilibrium.
+The second equilibrium point V_eq = -24.833821, W_eq = 0.014290 is a Saddle Point.
+The third equilibrium point V_eq = 4.547519, W_eq = 0.298049 is a Unstable Spiral.
+
+
+EQUILIBRIUM POINTS OF I_EXT = 39.000000 uA/cm2 => 
+The first equilibrium point V_eq = -32.875558, W_eq = 0.005720 is a Stable Equilibrium.
+The second equilibrium point V_eq = -26.155837, W_eq = 0.012301 is a Saddle Point.
+The third equilibrium point V_eq = 4.627494, W_eq = 0.299976 is a Unstable Spiral.
+
+
+EQUILIBRIUM POINTS OF I_EXT = 39.100000 uA/cm2 => 
+The first equilibrium point V_eq = -32.682205, W_eq = 0.005847 is a Stable Equilibrium.
+The second equilibrium point V_eq = -26.323015, W_eq = 0.012069 is a Saddle Point.
+The third equilibrium point V_eq = 4.635442, W_eq = 0.300167 is a Unstable Spiral.
+
+
+EQUILIBRIUM POINTS OF I_EXT = 39.200000 uA/cm2 => 
+The first equilibrium point V_eq = -32.478266, W_eq = 0.005985 is a Stable Equilibrium.
+The second equilibrium point V_eq = -26.500786, W_eq = 0.011828 is a Saddle Point.
+The third equilibrium point V_eq = 4.643381, W_eq = 0.300359 is a Unstable Spiral.
+
+
+EQUILIBRIUM POINTS OF I_EXT = 39.300000 uA/cm2 => 
+The first equilibrium point V_eq = -32.261561, W_eq = 0.006135 is a Stable Equilibrium.
+The second equilibrium point V_eq = -26.691327, W_eq = 0.011575 is a Saddle Point.
+The third equilibrium point V_eq = 4.651311, W_eq = 0.300551 is a Unstable Spiral.
+
+
+EQUILIBRIUM POINTS OF I_EXT = 39.400000 uA/cm2 => 
+The first equilibrium point V_eq = -32.029056, W_eq = 0.006300 is a Stable Equilibrium.
+The second equilibrium point V_eq = -26.897676, W_eq = 0.011307 is a Saddle Point.
+The third equilibrium point V_eq = 4.659233, W_eq = 0.300742 is a Unstable Spiral.
+
+
+EQUILIBRIUM POINTS OF I_EXT = 39.500000 uA/cm2 => 
+The first equilibrium point V_eq = -31.776280, W_eq = 0.006485 is a Stable Equilibrium.
+The second equilibrium point V_eq = -27.124302, W_eq = 0.011019 is a Saddle Point.
+The third equilibrium point V_eq = 4.667145, W_eq = 0.300933 is a Unstable Spiral.
+
+
+EQUILIBRIUM POINTS OF I_EXT = 39.600000 uA/cm2 => 
+The first equilibrium point V_eq = -31.496164, W_eq = 0.006696 is a Stable Equilibrium.
+The second equilibrium point V_eq = -27.378275, W_eq = 0.010705 is a Saddle Point.
+The third equilibrium point V_eq = 4.675049, W_eq = 0.301125 is a Unstable Spiral.
+
+
+EQUILIBRIUM POINTS OF I_EXT = 39.700000 uA/cm2 => 
+The first equilibrium point V_eq = -31.176249, W_eq = 0.006945 is a Stable Equilibrium.
+The second equilibrium point V_eq = -27.672053, W_eq = 0.010354 is a Saddle Point.
+The third equilibrium point V_eq = 4.682944, W_eq = 0.301316 is a Unstable Spiral.
+
+
+EQUILIBRIUM POINTS OF I_EXT = 39.800000 uA/cm2 => 
+The first equilibrium point V_eq = -30.790220, W_eq = 0.007258 is a Stable Equilibrium.
+The second equilibrium point V_eq = -28.031952, W_eq = 0.009938 is a Saddle Point.
+The third equilibrium point V_eq = 4.690830, W_eq = 0.301506 is a Unstable Spiral.
+
+
+EQUILIBRIUM POINTS OF I_EXT = 39.900000 uA/cm2 => 
+The first equilibrium point V_eq = -30.255774, W_eq = 0.007714 is a Stable Equilibrium.
+The second equilibrium point V_eq = -28.540275, W_eq = 0.009380 is a Saddle Point.
+The third equilibrium point V_eq = 4.698707, W_eq = 0.301697 is a Unstable Spiral.
+
+
+EQUILIBRIUM POINTS OF I_EXT = 40.000000 uA/cm2 => 
+The first equilibrium point V_eq = -29.900263, W_eq = 0.008169 is a Stable Equilibrium.
+The second equilibrium point V_eq = -29.381363, W_eq = 0.008607 is a Stable Equilibrium.
+The third equilibrium point V_eq = 4.706576, W_eq = 0.301888 is a Unstable Spiral.
+
+
+EQUILIBRIUM POINTS OF I_EXT = 41.000000 uA/cm2 => 
+The first equilibrium point V_eq = -29.138617, W_eq = 0.011136 is a Stable Equilibrium.
+The second equilibrium point V_eq = -29.136515, W_eq = 0.011139 is a Saddle Point.
+The third equilibrium point V_eq = 4.784794, W_eq = 0.303786 is a Unstable Spiral.
+
+
+EQUILIBRIUM POINTS OF I_EXT = 42.000000 uA/cm2 => 
+The first equilibrium point V_eq = -28.897798, W_eq = 0.013673 is a Stable Equilibrium.
+The second equilibrium point V_eq = -28.897540, W_eq = 0.013674 is a Stable Equilibrium.
+The third equilibrium point V_eq = 4.862175, W_eq = 0.305670 is a Unstable Spiral.
+
+
+EQUILIBRIUM POINTS OF I_EXT = 43.000000 uA/cm2 => 
+The first equilibrium point V_eq = -28.658034, W_eq = 0.016219 is a Saddle Point.
+The second equilibrium point V_eq = -28.656799, W_eq = 0.016221 is a Saddle Point.
+The third equilibrium point V_eq = 4.938746, W_eq = 0.307541 is a Unstable Spiral.
+
+
+EQUILIBRIUM POINTS OF I_EXT = 44.000000 uA/cm2 => 
+The first equilibrium point V_eq = -28.423795, W_eq = 0.018768 is a Stable Equilibrium.
+The second equilibrium point V_eq = -28.424964, W_eq = 0.018767 is a Stable Equilibrium.
+The third equilibrium point V_eq = 5.014531, W_eq = 0.309400 is a Unstable Spiral.
+
+
+EQUILIBRIUM POINTS OF I_EXT = 45.000000 uA/cm2 => 
+The first equilibrium point V_eq = -28.192138, W_eq = 0.021323 is a Stable Equilibrium.
+The second equilibrium point V_eq = -28.190582, W_eq = 0.021326 is a Saddle Point.
+The third equilibrium point V_eq = 5.089555, W_eq = 0.311245 is a Unstable Spiral.
+
+
+EQUILIBRIUM POINTS OF I_EXT = 46.000000 uA/cm2 => 
+The first equilibrium point V_eq = -27.962074, W_eq = 0.023886 is a Saddle Point.
+The second equilibrium point V_eq = -27.963757, W_eq = 0.023884 is a Stable Equilibrium.
+The third equilibrium point V_eq = 5.163840, W_eq = 0.313079 is a Unstable Spiral.
+
+
+EQUILIBRIUM POINTS OF I_EXT = 47.000000 uA/cm2 => 
+The first equilibrium point V_eq = -27.737099, W_eq = 0.026451 is a Stable Equilibrium.
+The second equilibrium point V_eq = -27.736281, W_eq = 0.026452 is a Stable Equilibrium.
+The third equilibrium point V_eq = 5.237407, W_eq = 0.314900 is a Unstable Spiral.
+
+
+EQUILIBRIUM POINTS OF I_EXT = 48.000000 uA/cm2 => 
+The first equilibrium point V_eq = -27.512756, W_eq = 0.029025 is a Stable Equilibrium.
+The second equilibrium point V_eq = -27.512344, W_eq = 0.029026 is a Stable Equilibrium.
+The third equilibrium point V_eq = 5.310278, W_eq = 0.316710 is a Unstable Spiral.
+
+
+EQUILIBRIUM POINTS OF I_EXT = 49.000000 uA/cm2 => 
+The first equilibrium point V_eq = -27.290210, W_eq = 0.031605 is a Stable Equilibrium.
+The second equilibrium point V_eq = -27.290606, W_eq = 0.031605 is a Stable Equilibrium.
+The third equilibrium point V_eq = 5.382472, W_eq = 0.318508 is a Unstable Spiral.
+
+
+EQUILIBRIUM POINTS OF I_EXT = 50.000000 uA/cm2 => 
+The first equilibrium point V_eq = -27.070806, W_eq = 0.034190 is a Saddle Point.
+The second equilibrium point V_eq = -27.071634, W_eq = 0.034189 is a Stable Equilibrium.
+The third equilibrium point V_eq = 5.454007, W_eq = 0.320296 is a Unstable Spiral.
+
+
+   HODGKIN HUXLEY EQUATIONS    
+
+
+QUESTION 12 and 13:
+
+
+The value of E_L for V_rest = -60 mV is -49.401079 mV
+
+QUESTION 14:
+
+The Equilibrium condition for HH model for I_ext = 0 uA/cm2  and V_rest = -60 mV is:
+V_eq = -60.000000 mV, n_eq = 0.317677, m_eq = 0.052932, h_eq = 0.596121
+
+QUESTION 15:
+
+The Equilibrium condition for HH model for steady I_ext = 8.000000 uA/cm2:
+V_eq = -55.355128 mV, n_eq = 0.390607, m_eq = 0.090048, h_eq = 0.430515
+
+The Equilibrium condition for HH model for steady I_ext = 9.000000 uA/cm2:
+V_eq = -54.952404 mV, n_eq = 0.397027, m_eq = 0.094133, h_eq = 0.416502
+
+The Equilibrium condition for HH model for steady I_ext = 10.000000 uA/cm2:
+V_eq = -54.572150 mV, n_eq = 0.403092, m_eq = 0.098131, h_eq = 0.403419
+
+The Equilibrium condition for HH model for steady I_ext = 11.000000 uA/cm2:
+V_eq = -54.211777 mV, n_eq = 0.408841, m_eq = 0.102052, h_eq = 0.391169
+
+The Equilibrium condition for HH model for steady I_ext = 12.000000 uA/cm2:
+V_eq = -53.869127 mV, n_eq = 0.414306, m_eq = 0.105899, h_eq = 0.379667
+
+QUESTION 16:
+
+ V-n REDUCED HH SYSTEM OF EQUATIONS 
+
+
+The Equilibrium condition for V-n reduced system HH model for steady I_ext = 8.000000 uA/cm2:
+V_eq = -16.357465 mV, n_eq = 0.827897
+
+The Equilibrium condition for V-n reduced system HH model for steady I_ext = 9.000000 uA/cm2:
+V_eq = -16.337512 mV, n_eq = 0.828007
+
+The Equilibrium condition for V-n reduced system HH model for steady I_ext = 10.000000 uA/cm2:
+V_eq = -16.317587 mV, n_eq = 0.828116
+
+The Equilibrium condition for V-n reduced system HH model for steady I_ext = 11.000000 uA/cm2:
+V_eq = -16.297689 mV, n_eq = 0.828226
+
+The Equilibrium condition for V-n reduced system HH model for steady I_ext = 12.000000 uA/cm2:
+V_eq = -16.277817 mV, n_eq = 0.828335
+
+QUESTION 18:
+
+ V-m REDUCED HH SYSTEM OF EQUATIONS 
+
+
+CASE 1 :
+
+Warning: Function behaves unexpectedly on array inputs. To improve performance, properly vectorize your function to return an output with the same size and shape as the
+input arguments. 
+> In matlab.graphics.function.FunctionLine>getFunction
+In matlab.graphics.function/FunctionLine/updateFunction
+In matlab.graphics.function/FunctionLine/set.Function_I
+In matlab.graphics.function/FunctionLine/set.Function
+In matlab.graphics.function.FunctionLine
+In fplot>singleFplot (line 245)
+In fplot>@(f)singleFplot(cax,{f},limits,extraOpts,args) (line 200)
+In fplot>vectorizeFplot (line 200)
+In fplot (line 166)
+In COMP_NEURO_P2_20CS30037 (line 1328) 
+
+Equilibrium point 1 for V-m reduced HH model (Case 1) :
+V_eq = -60.000000 mV    m_eq = 0.052932
+The given equilibrium point is a Stable Equilibrium.
+
+Equilibrium point 2 for V-m reduced HH model (Case 1) :
+V_eq = -57.382318 mV    m_eq = 0.071715
+The given equilibrium point is a Saddle Point.
+
+Equilibrium point 3 for V-m reduced HH model (Case 1) :
+V_eq = 53.918714 mV    m_eq = 0.999198
+The given equilibrium point is a Stable Equilibrium.
+
+CASE 2 :
+
+Warning: Function behaves unexpectedly on array inputs. To improve performance, properly vectorize your function to return an output with the same size and shape as the
+input arguments. 
+> In matlab.graphics.function.FunctionLine>getFunction
+In matlab.graphics.function/FunctionLine/updateFunction
+In matlab.graphics.function/FunctionLine/set.Function_I
+In matlab.graphics.function/FunctionLine/set.Function
+In matlab.graphics.function.FunctionLine
+In fplot>singleFplot (line 245)
+In fplot>@(f)singleFplot(cax,{f},limits,extraOpts,args) (line 200)
+In fplot>vectorizeFplot (line 200)
+In fplot (line 166)
+In COMP_NEURO_P2_20CS30037 (line 1396) 
+
+Equilibrium point 1 for V-m reduced HH model (Case 2) :
+V_eq = -63.309740 mV    m_eq = 0.035580
+The given equilibrium point is a Stable Equilibrium.
+
+Equilibrium point 2 for V-m reduced HH model (Case 2) :
+V_eq = -57.653009 mV    m_eq = 0.069531
+The given equilibrium point is a Saddle Point.
+
+Equilibrium point 3 for V-m reduced HH model (Case 2) :
+V_eq = 54.316422 mV    m_eq = 0.999219
+The given equilibrium point is a Stable Equilibrium.
+
+ ------------------------ END OF PROJECT -----------------------------
+
